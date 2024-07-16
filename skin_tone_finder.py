@@ -25,7 +25,7 @@ def average_rgb_from_contour(image, contour):
     return average_color
 
 # Load JSON data
-with open('fabindia_kids_products.json', 'r') as f:
+with open('biba_products.json', 'r') as f:
     data = json.load(f)
 
 # Define bounds for skin detection in HSV
@@ -34,8 +34,16 @@ upper_skin = np.array([20, 255, 255], dtype=np.uint8)
 
 # Process each image link in the JSON
 for entry in data:
-    image_url = entry['image']
+    image_url = entry.get('image', '')
+    if not image_url:
+        print(f"Empty image URL for entry: {entry}")
+        continue
+
     response = requests.get(image_url)
+    if response.status_code != 200:
+        print(f"Failed to retrieve image from URL: {image_url}")
+        continue
+
     image_data = response.content
 
     # Load image using OpenCV
@@ -74,7 +82,7 @@ for entry in data:
         print(f"No contours found for image: {image_url}")
 
 # Save updated JSON
-with open('fab_kids_rgb.json', 'w') as f:
+with open('biba_rgb.json', 'w') as f:
     json.dump(data, f, indent=4)
 
 print("Processing complete. Updated JSON saved.")

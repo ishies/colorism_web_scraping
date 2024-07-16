@@ -1,0 +1,578 @@
+[
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwba3033d5/images/aw23/fstve2058aw23nvy_1-1.jpg?sw=242&sh=363",
+        "name": "Navy LIVA Straight Printed Dress",
+        "price": 55.0,
+        "index": 0
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw861bd33f/images/aw22/assorted1836eaw22och_1.jpg?sw=242&sh=363",
+        "name": "Ochre Rayon Flared 2 Piece Set",
+        "price": 36.0,
+        "index": 1
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw175920ce/images/aw23/skdgldmur9148aw23red_1.jpg?sw=242&sh=363",
+        "name": "Red Cotton Anarkali Kurta Churidar Suit Set",
+        "price": 83.0,
+        "index": 2
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw7f5e7ff7/images/ss21/skd7451ess21nyblu_1.jpg?sw=242&sh=363",
+        "name": "Navy Blue Rayon Straight Kurta Pants Set",
+        "price": 50.0,
+        "index": 3
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw9ec09d96/images/ss23/skdbanarasi8681ss23must_1.jpg?sw=242&sh=363",
+        "name": "Mustard Viscose Blend Straight Kurta Palazzo Suit Set",
+        "price": 69.0,
+        "index": 4
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw5336f2c8/images/ss21/skd7451ess21pnk-1.jpg?sw=242&sh=363",
+        "name": "Pink Rayon Straight Kurta Pants Set",
+        "price": 50.0,
+        "index": 5
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwf4235b4d/images/ss24/skdsanganer9556ss24pnk_1.jpg?sw=242&sh=363",
+        "name": "Pink Cotton Anarkali Suit Set",
+        "price": 88.0,
+        "index": 6
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw53d2161a/images/aw23/skdgldmur9147aw23blu_1.jpg?sw=242&sh=363",
+        "name": "Blue LIVA Kalidar Kurta Salwar Pant Suit Set",
+        "price": 55.0,
+        "index": 7
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwb98c7bee/images/aw23/skdgldmur9143aw23seagrn_1.jpg?sw=242&sh=363",
+        "name": "Sea Green Polyester Anarkali Kurta Churidar Suit Set",
+        "price": 69.0,
+        "index": 8
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwd72e8654/images/aw23/skdasrtd9080aw23blu_1.jpg?sw=242&sh=363",
+        "name": "Blue Poly Viscose Anarkali Kurta Palazzo Suit Set",
+        "price": 89.0,
+        "index": 9
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwbbcc2511/images/ss24/jamawar20171ss24brn_1.jpg?sw=242&sh=363",
+        "name": "Brown Viscose Straight Kurta",
+        "price": 33.0,
+        "index": 10
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw9b0afc83/images/aw22/skdassorted6533eaw22yel_1.jpg?sw=242&sh=363",
+        "name": "Yellow Cotton Straight Kurta Slim Pants Suit Set",
+        "price": 83.0,
+        "index": 11
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw9ec09d96/images/ss23/skdbanarasi8681ss23must_1.jpg?sw=242&sh=363",
+        "name": "Mustard Viscose Blend Straight Kurta Palazzo Suit Set",
+        "price": 69.0,
+        "index": 0
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwe9b47b99/images/ss24/skdsawera9597ss24wht_1.jpg?sw=242&sh=363",
+        "name": "Off White Cotton Anarkali Suit Set",
+        "price": 129.0,
+        "index": 1
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw440866f3/images/ss24/skdblackwhite9428ss24owht_1.jpg?sw=242&sh=363",
+        "name": "Off White Polyester Straight Suit Set",
+        "price": 149.0,
+        "index": 2
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw3b20c8df/images/ss23/skdrosebow8424ss23stlblu_1.jpg?sw=242&sh=363",
+        "name": "Steel Blue Cotton Straight Kurta Palazzo Suit Set",
+        "price": 52.0,
+        "index": 3
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwfbed70a8/images/ss24/skd9678ss24pnk_1.jpg?sw=242&sh=363",
+        "name": "Pink Rayon Straight Suit Set",
+        "price": 55.0,
+        "index": 4
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw7f5e7ff7/images/ss21/skd7451ess21nyblu_1.jpg?sw=242&sh=363",
+        "name": "Navy Blue Rayon Straight Kurta Pants Set",
+        "price": 50.0,
+        "index": 5
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw86727ac6/images/ss24/skd9748ss24wht_1.jpg?sw=242&sh=363",
+        "name": "Off-White Cotton Printed Kurta & Palazzo Suit Set",
+        "price": 76.0,
+        "index": 6
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwd80f499c/images/ss23/skdasrtd8026ss23turq_1.jpg?sw=242&sh=363",
+        "name": "Turquoise Cotton Blend Straight Kurta Pants Suit Set",
+        "price": 55.0,
+        "index": 7
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwb2743bb1/images/ss23/skdloungei8769ss23blk_1.jpg?sw=242&sh=363",
+        "name": "Black Cotton Straight Kurta Salwar Suit Set",
+        "price": 41.0,
+        "index": 8
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwba30465c/images/ss23/skdphulkari8481ss23org_1.jpg?sw=242&sh=363",
+        "name": "Orange Cotton Blend Straight Kurta Palazzo Suit Set",
+        "price": 110.0,
+        "index": 9
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwf7ffe8a7/images/aw23/skdasrtd8297aw23blu_1.jpg?sw=242&sh=363",
+        "name": "Blue Polyester Straight Kurta Skirt Suit Set",
+        "price": 89.0,
+        "index": 10
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwee715e18/images/ss24/skdamber9674ss24whtblu_1.jpg?sw=242&sh=363",
+        "name": "White Blue Cotton Straight Suit Set",
+        "price": 41.0,
+        "index": 11
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwf4235b4d/images/ss24/skdsanganer9556ss24pnk_1.jpg?sw=242&sh=363",
+        "name": "Pink Cotton Anarkali Suit Set",
+        "price": 88.0,
+        "index": 12
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwa3161b85/images/ss24/skd8953ss24ind_1.jpg?sw=242&sh=363",
+        "name": "Indigo Polyester Anarkali Suit Set",
+        "price": 92.0,
+        "index": 13
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw02187d85/images/ss24/skdvintgetales9269ss24owhtrd_1.jpg?sw=242&sh=363",
+        "name": "Off White Red Cotton Anarkali Suit Set",
+        "price": 115.0,
+        "index": 14
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw0c144cb8/images/ss24/skdjrdintrpics9395ss24crm_1.jpg?sw=242&sh=363",
+        "name": "Cream Polyester Anarkali Suit Set",
+        "price": 80.0,
+        "index": 15
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwb183ea8c/images/ss23/skdasrtd8618ss23ind_1.jpg?sw=242&sh=363",
+        "name": "Indigo Cotton Anarkali Kurta Churidar Suit Set",
+        "price": 89.0,
+        "index": 16
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwd72e8654/images/aw23/skdasrtd9080aw23blu_1.jpg?sw=242&sh=363",
+        "name": "Blue Poly Viscose Anarkali Kurta Palazzo Suit Set",
+        "price": 89.0,
+        "index": 17
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwbdd5d503/images/aw23/skdpasn9075aw23pckgrn_1.jpg?sw=242&sh=363",
+        "name": "Peacock Green Polyester Anarkali Kurta Churidar Suit Set",
+        "price": 97.0,
+        "index": 18
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw365a4b24/images/aw22/skdassorted7670aw22blu_1.jpg?sw=242&sh=363",
+        "name": "Blue Cotton Anarkali Kurta Palazzo Suit Set",
+        "price": 69.0,
+        "index": 19
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw2975269d/images/ss24/skdsmerbloom9596ss24teal_1.jpg?sw=242&sh=363",
+        "name": "Teal Cotton Printed Anarkali & Churidar Suit Set",
+        "price": 106.0,
+        "index": 20
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw3ed21a76/images/aw23/skdjhilmil8883aw23grn_1.jpg?sw=242&sh=363",
+        "name": "Green Cotton Anarkali Kurta Churidar Suit Set",
+        "price": 89.0,
+        "index": 21
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwd5340fc3/images/ss23/skdasrtd8618ss23red_1.jpg?sw=242&sh=363",
+        "name": "Red Cotton Anarkali Kurta Churidar Suit Set",
+        "price": 89.0,
+        "index": 22
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwb628a32e/images/aw22/skdassorted8416aw22man_1.jpg?sw=242&sh=363",
+        "name": "Mango Cotton Flared Kurta Garara Suit Set",
+        "price": 92.0,
+        "index": 23
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwf8419157/images/ss24/summerstpls20259ss24ind_1.jpg?sw=242&sh=363",
+        "name": "Indigo Cotton Straight Kurta",
+        "price": 42.0,
+        "index": 24
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw146fb9b9/images/aw23/wrkwr19770aw23blk_1.jpg?sw=242&sh=363",
+        "name": "Black Poly Cotton Flared Yarndyed Kurta",
+        "price": 50.0,
+        "index": 25
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw9f9ad23a/images/ss24/assorted20405ss24yelteal_1.jpg?sw=242&sh=363",
+        "name": "Yellow Teal Polyester Straight Kurta",
+        "price": 46.0,
+        "index": 26
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw12294823/images/ss24/festive20464ss24yel_1.jpg?sw=242&sh=363",
+        "name": "Yellow Cotton Straight Kurta",
+        "price": 32.0,
+        "index": 27
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwf7064dc1/images/ss24/workvogue20076ss24wht_1.jpg?sw=242&sh=363",
+        "name": "White Cotton Straight Kurta",
+        "price": 64.0,
+        "index": 28
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw597cde4e/images/aw23/asrtd19754aw23nvy_1.jpg?sw=242&sh=363",
+        "name": "Navy LIVA Straight Printed Kurta",
+        "price": 18.0,
+        "index": 29
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw7b2ce83c/images/aw23/mnmasrtd19365aw23org_1.jpg?sw=242&sh=363",
+        "name": "Orange LIVA Straight Printed Kurta",
+        "price": 22.0,
+        "index": 30
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw814af770/images/aw23/wrkwr19848aw23hotpnk_6.jpg?sw=242&sh=363",
+        "name": "Hot Pink LIVA Straight Printed Kurta",
+        "price": 28.0,
+        "index": 31
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw1728aad7/images/ss23/asrtd19266ss23yelcrbn_1.jpg?sw=242&sh=363",
+        "name": "Yellow Carbon Cotton Straight Printed Kurta",
+        "price": 32.0,
+        "index": 32
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwbe2ce195/images/aw23/fstve19868aw23botlgrn_1.jpg?sw=242&sh=363",
+        "name": "Bottle Green LIVA Straight Printed Kurta",
+        "price": 22.0,
+        "index": 33
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw8c622f4f/images/ss24/festive20470ss24blu_1.jpg?sw=242&sh=363",
+        "name": "Blue Rayon Straight Kurta",
+        "price": 32.0,
+        "index": 34
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwbbcc2511/images/ss24/jamawar20171ss24brn_1.jpg?sw=242&sh=363",
+        "name": "Brown Viscose Straight Kurta",
+        "price": 33.0,
+        "index": 35
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw537bb7d8/images/ss24/chintzpop20228ss24yel_1.jpg?sw=242&sh=363",
+        "name": "Yellow Rayon Straight Kurti",
+        "price": 26.0,
+        "index": 36
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw1f1fc6b3/images/ss24/ribayat20149ss24must_1.jpg?sw=242&sh=363",
+        "name": "Mustard Viscose Straight Kurti",
+        "price": 69.0,
+        "index": 37
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw74f37c1f/images/ss24/summerstpls20265ss24wht_1.jpg?sw=242&sh=363",
+        "name": "White Cotton Straight Kurti",
+        "price": 26.0,
+        "index": 38
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwb5b9b9da/images/aw23/wntrw19968aw23blk_1.jpg?sw=242&sh=363",
+        "name": "Black Daffodil Straight Yarndyed Kurta",
+        "price": 38.0,
+        "index": 39
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw5bebc193/images/ss24/topstunics20206ss24blk_1.jpg?sw=242&sh=363",
+        "name": "Black Rayon Straight Kurti",
+        "price": 30.0,
+        "index": 40
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw592d7ad9/images/ss24/topstunics20217ss24brn_1.jpg?sw=242&sh=363",
+        "name": "Brown Rayon Straight Kurti",
+        "price": 37.0,
+        "index": 41
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwacb0564e/images/aw23/grsro19646aw23nvy_1-1.jpg?sw=242&sh=363",
+        "name": "Navy LIVA Straight Printed Kurti",
+        "price": 22.0,
+        "index": 42
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw6dbb78e8/images/aw23/wntrw19901aw23red_1.jpg?sw=242&sh=363",
+        "name": "Red Poly Cotton Straight Printed Kurti",
+        "price": 22.0,
+        "index": 43
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw5f83ae47/images/aw23/mntge19369aw23pur_1.jpg?sw=242&sh=363",
+        "name": "Pink & Purple LIVA Straight Printed Shirt",
+        "price": 22.0,
+        "index": 44
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw158475a1/images/ss24/jamawar20170ss24nvy_1.jpg?sw=242&sh=363",
+        "name": "Navy Viscose Straight Kurti",
+        "price": 37.0,
+        "index": 45
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw8df08bbf/images/ss24/topstunics20208ss24red_1.jpg?sw=242&sh=363",
+        "name": "Red Rayon Straight Kurti",
+        "price": 30.0,
+        "index": 46
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw761f377c/images/ss24/crepekurti20372ss24beg_1.jpg?sw=242&sh=363",
+        "name": "Beige Polyester Straight Kurti",
+        "price": 24.0,
+        "index": 47
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwba3033d5/images/aw23/fstve2058aw23nvy_1-1.jpg?sw=242&sh=363",
+        "name": "Navy LIVA Straight Printed Dress",
+        "price": 55.0,
+        "index": 48
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw8f05a382/images/aw23/csuald2154aw23fus_1.jpg?sw=242&sh=363",
+        "name": "Fuchsia Polyester Flared Printed Dress",
+        "price": 50.0,
+        "index": 49
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwb1dc4489/images/aw23/rjnws2080aw23teal_1-1.jpg?sw=242&sh=363",
+        "name": "Teal Polyester Tiered Printed Dress",
+        "price": 55.0,
+        "index": 50
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw5bb47bac/images/aw21/casuald1303aw21mus_1.jpg?sw=242&sh=363",
+        "name": "Mustard Cotton Fusion Dress",
+        "price": 46.0,
+        "index": 51
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw06fb9252/images/aw22/festive1588aw22tomred_1.jpg?sw=242&sh=363",
+        "name": "Tomato Red Poly Cotton Printed Kurta Dress",
+        "price": 53.0,
+        "index": 52
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw1f47e0f5/images/aw23/festive2166aw23blk_1.jpg?sw=242&sh=363",
+        "name": "Black Polyester Flared Solid Dress",
+        "price": 63.0,
+        "index": 53
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw2ade2277/images/aw22/festive1661aw22must_1.jpg?sw=242&sh=363",
+        "name": "Mustard Art Silk Flared with Cape Dress",
+        "price": 46.0,
+        "index": 54
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw89af2b92/images/aw21/fussemifes1233eaw21teal_1.jpg?sw=242&sh=363",
+        "name": "Teal Cotton Dress",
+        "price": 55.0,
+        "index": 55
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwd4de49a9/images/aw23/fstve2059aw23red_1.jpg?sw=242&sh=363",
+        "name": "Red Cotton Flared Printed Dress",
+        "price": 69.0,
+        "index": 56
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwedcfef32/images/aw22/geoindi1528ss22indigo_6.jpg?sw=242&sh=363",
+        "name": "Indigo LIVA A-Line Printed Kurta Dress",
+        "price": 44.0,
+        "index": 57
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw0fe4b575/images/aw23/csuald2151aw23red_1.jpg?sw=242&sh=363",
+        "name": "Red Polyester Tiered Dress",
+        "price": 46.0,
+        "index": 58
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwa66ab1c8/images/aw23/jumpsui2195aw23bery_1.jpg?sw=242&sh=363",
+        "name": "Berry Rayon Flax Straight Printed Jumpsuit",
+        "price": 50.0,
+        "index": 59
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw168e07be/images/ss21/dresses1210ss21red_1.jpg?sw=242&sh=363",
+        "name": "Red Cotton Tiered Dress",
+        "price": 46.0,
+        "index": 60
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw23818cb7/images/ss21/dresses1210ss21lavender_1.jpg?sw=242&sh=363",
+        "name": "Lavender Cotton Tiered Dress",
+        "price": 46.0,
+        "index": 61
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwa91effd0/images/ss21/bluepot16605ss21wht_1.jpg?sw=242&sh=363",
+        "name": "White Cotton Printed Kurta Dress",
+        "price": 32.0,
+        "index": 62
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw018fa264/images/ss21/chi16894ss21skblu_1.jpg?sw=242&sh=363",
+        "name": "Sky Blue Cotton Flax A-line Printed Kurta Dress",
+        "price": 20.0,
+        "index": 63
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwd1902a15/images/ss19/dresses14868ss19owh-1.jpg?sw=242&sh=363",
+        "name": "Off White Flared Cotton Printed Dress",
+        "price": 50.0,
+        "index": 64
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwef64afa2/images/ss19/dresses14960ss19yel-1.jpg?sw=242&sh=363",
+        "name": "Yellow Flared Art Silk Printed Dress",
+        "price": 46.0,
+        "index": 65
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw80caffd1/images/aw19/dresses1044aw19blk-1.jpg?sw=242&sh=363",
+        "name": "Black Poly Cotton Flared Dress",
+        "price": 52.0,
+        "index": 66
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwd4404f5b/images/ss22/fusassorted1168ess22blk_1.jpg?sw=242&sh=363",
+        "name": "Black Cotton Tired Dress",
+        "price": 38.0,
+        "index": 67
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwac7c8766/images/ss21/dresses1210ss21org_1.jpg?sw=242&sh=363",
+        "name": "Orange Cotton Tiered Dress",
+        "price": 46.0,
+        "index": 68
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw02b7f6cb/images/ss21/chi16890ss21teal-1.jpg?sw=242&sh=363",
+        "name": "Teal Rayon Printed Kurta Dress",
+        "price": 23.0,
+        "index": 69
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw6f341dda/images/ss21/chi16890ss21teal_1.jpg?sw=242&sh=363",
+        "name": "Peach Rayon A-line Printed Kurta Dress",
+        "price": 23.0,
+        "index": 70
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw0565c1e8/images/ss21/chi16893ss21mus_1.jpg?sw=242&sh=363",
+        "name": "Mustard Cotton A-line Flax Solid Kurta Dress",
+        "price": 20.0,
+        "index": 71
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw02bc546a/images/aw22/winterw18760aw22blk_1.jpg?sw=242&sh=363",
+        "name": "Black Viscose Straight Printed Jacket",
+        "price": 34.0,
+        "index": 72
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwea390bcf/images/aw21/coatsja17137aw21mus-1.jpg?sw=242&sh=363",
+        "name": "Mustard Straight Silk Yarndyed Jacket",
+        "price": 80.0,
+        "index": 73
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw46c16586/images/ss24/workwear20066ss24elcblu_1.jpg?sw=242&sh=363",
+        "name": "Electric Blue Rayon Straight Jacket",
+        "price": 42.0,
+        "index": 74
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwdcb14d95/images/aw21/coatsja17548aw21blu_1.jpg?sw=242&sh=363",
+        "name": "Blue Straight Art Silk Printed Jacket",
+        "price": 38.0,
+        "index": 75
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw513c65d6/images/aw21/bandhani17251aw21blk_1.jpg?sw=242&sh=363",
+        "name": "Black Straight Modal Printed Jacket",
+        "price": 46.0,
+        "index": 76
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw93f8579e/images/aw21/coatsja17239aw21nvy_1.jpg?sw=242&sh=363",
+        "name": "Navy Straight Metallic Cotton Yarndyed Jacket",
+        "price": 30.0,
+        "index": 77
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw13f266b8/images/ss22/frenchp17884ss22pnk-1.jpg?sw=242&sh=363",
+        "name": "Pink Asymmetric Printed Jacket",
+        "price": 34.0,
+        "index": 78
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw2cdb08f6/images/aw21/winterw17914aw21tea_1.jpg?sw=242&sh=363",
+        "name": "Teal Straight Acrylic Solid Shrug",
+        "price": 42.0,
+        "index": 79
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw4de22ef4/images/aw22/winterw18761aw22brn-1.jpg?sw=242&sh=363",
+        "name": "Brown Viscose Straight Printed Jacket",
+        "price": 34.0,
+        "index": 80
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwaea52581/images/ss21/vintage16870ss21blu-1.jpg?sw=242&sh=363",
+        "name": "Cream Cotton Solid Jacket With Kurta",
+        "price": 34.0,
+        "index": 81
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw08809901/images/aw22/winterw18900aw22nvy_1.jpg?sw=242&sh=363",
+        "name": "Navy Acrylic Yarndyed Jacket",
+        "price": 34.0,
+        "index": 82
+    },
+    {
+        "image": "https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dwab4fd21d/images/aw22/winterw18896aw22beg_1.jpg?sw=242&sh=363",
+        "name": "Beige Acrylic Yarndyed Shrug",
+        "price": 34.0,
+        "index": 83
+    }
+]
