@@ -3,6 +3,9 @@ import numpy as np
 import json
 import requests
 
+# Code written with help from ChatGPT
+# https://chatgpt.com/c/04b292fe-d663-46cb-b50f-31b0620cc476
+
 # Function to calculate average RGB value in a region defined by a contour
 def average_rgb_from_contour(image, contour):
     # Create a mask for the contour
